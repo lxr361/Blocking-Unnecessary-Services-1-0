@@ -3,7 +3,9 @@
 Tutorial:
 
 1-) First,launch the application, then press 1 and press enter.
+
 2-) Wait until you see successfully blocked.
+
 3-) After you see the message "Successfully blocked", you can log out of the application.
 
 If you have problems;
